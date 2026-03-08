@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm Sri — QA Engineer turned AWS & DevOps Practitioner | Building Cloud-Native Infrastructure
+# ⚡ Hi, I'm Srikanth — QA Engineer turned AWS & DevOps Practitioner | Building Cloud-Native Infrastructure
 
 > *"I don't just test systems — I build, automate, and scale them."*
 
