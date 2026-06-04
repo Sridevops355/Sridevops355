@@ -90,19 +90,6 @@ I am actively seeking opportunities in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sridevops355&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sridevops355&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridevops355&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="left">
