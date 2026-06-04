@@ -1,85 +1,68 @@
-# ⚡ Hi, I'm Srikanth — QA Engineer turned AWS & DevOps Practitioner | Building Cloud-Native Infrastructure
+# ⚡ Hi, I'm Srikanth — QA Engineer → Azure Data Engineer | Building Data Pipelines & Lakehouses
 
-> *"I don't just test systems — I build, automate, and scale them."*
+> *"I spent years catching bad data before it shipped — now I build the pipelines that keep it clean."*
 
 ---
 
 ## 🗺️ About Me
 
-I'm an IT professional with a strong foundation in **Manual and Automation Testing**, now fully transitioning into **AWS Cloud Engineering**, **DevOps**, and **Site Reliability Engineering (SRE)**.
+I'm an IT professional with a strong foundation in **Software Testing and Automation**, now transitioning into **Azure Data Engineering**.
 
-After years of breaking systems as a QA engineer, I decided it was time to **build and operate** them instead. I bring a unique perspective to DevOps: I understand *why* things fail, which makes me exceptionally good at designing infrastructure and CI/CD pipelines that are **resilient, observable, and production-ready**.
+After years of validating systems as a QA Engineer, I'm focused on the data side: **ETL/ELT pipelines, lakehouse (medallion) architecture, and analytics-ready datasets** on Azure. My testing background is the edge and I build pipelines with **data quality, validation, and edge cases** designed in from the start, not bolted on after.
 
-I am currently:
-- 🔧 **Building real-world DevOps projects** and publishing them here on GitHub
-- ☁️ **Deepening my AWS expertise** across compute, networking, storage, and security
-- 🎯 **Working toward certifications** in AWS and Kubernetes
-- 💡 **Open to roles** in DevOps, Cloud Engineering, SRE, and Automation Engineering
-
-My QA background gives me an edge: I write infrastructure code **with testing in mind**, document everything clearly, and always think about edge cases.
+I'm currently:
+- 🔧 Building end-to-end **Azure Data Engineering projects** on GitHub
+- ☁️ Working hands-on with **Azure Data Factory, ADLS Gen2, Databricks, and Synapse**
+- 📊 Learning **medallion architecture** (Bronze / Silver / Gold)
+- 🎯 Preparing for **DP-900 → DP-700 (Fabric Data Engineer)**
+- 💡 Open to **Azure Data Engineer / Data Platform** roles in Sydney
 
 ---
 
-## ⚙️ DevOps & Cloud Tools Stack
+## ⚙️ Azure Data Engineering Stack
 
-### ☁️ Cloud — AWS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+### 🔷 Azure — Data Engineering (actively building)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ADLS Gen2](https://img.shields.io/badge/Azure_Data_Lake_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Key Vault](https://img.shields.io/badge/Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🔄 CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 🏛️ Infrastructure as Code (IaC)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 📦 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-### 📡 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-### 🖥️ Scripting & Languages
+### 🔄 Data Processing
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🧬 Testing & QA (Core Background)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+### 🏛️ Infrastructure as Code & CI/CD
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+### 📡 Monitoring & Data Quality
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-### 🗂️ Version Control & Collaboration
+### 🗂️ Tools & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
 ## 🛤️ Currently Learning & Building
 
 ```
-🔵 AWS Solutions Architect Associate (SAA-C03)  ─────────────────── In Progress
-🔵 Certified Kubernetes Administrator (CKA)      ─────────────────── In Progress
-🟢 Terraform Advanced Modules & Remote State     ─────────────────── Active
-🟡 GitOps with ArgoCD                            ─────────────────── Learning
-🟢 Python for Cloud Automation (Boto3)           ─────────────────── Active
+🔵 DP-700: Fabric Data Engineer Associate     ──────────── In Progress
+🟢 Azure Data Factory — building pipelines     ──────────── Active
+🟢 Azure Databricks (PySpark, Delta Lake)      ──────────── Active
+🟢 SQL for Data Engineering                    ──────────── Active
+🟡 Medallion Architecture (Bronze/Silver/Gold) ──────────── Implementing
+🟡 Data Modelling & Warehousing                ──────────── Learning
 ```
 
 ---
@@ -90,18 +73,17 @@ I am actively seeking opportunities in:
 
 | Role | Type |
 |------|------|
-| ☁️ AWS Cloud Engineer | Full-time · Contract |
-| ⚙️ DevOps Engineer | Full-time · Contract |
-| 🔍 Site Reliability Engineer (SRE) | Full-time · Contract |
-| 🧬 Automation Test Engineer | Full-time · Contract |
-| 🏛️ Platform Engineer | Full-time · Contract |
+| ☁️ Azure Data Engineer | Full-time · Contract |
+| 📊 Data Engineer | Full-time · Contract |
+| 🏗️ Data Platform Engineer | Full-time · Contract |
+| 📈 Analytics Engineer | Full-time · Contract |
 
 **What I bring:**
-- 🧠 QA mindset applied to infrastructure — I think in edge cases, not just happy paths
-- 🏗️ Hands-on experience with AWS, Terraform, Docker, Kubernetes, and CI/CD pipelines
-- 🧬 Years of automation expertise — I write infrastructure code that is testable by design
-- 🤝 Strong documentation, communication, and cross-team collaboration skills
-- 📈 Actively building real-world DevOps projects and pursuing AWS SAA-C03 & CKA
+- 🧠 QA background → relentless focus on **data quality, validation, and reliability**
+- 🔄 Building **end-to-end Azure pipelines** — ingestion, transformation, serving (ADF · Databricks · Synapse)
+- 🐍 Strong **SQL, Python and PySpark** for data transformation
+- 🏗️ **IaC + CI/CD** habits that make data platforms reproducible and production-safe
+- 📁 Production-style **GitHub projects with real documentation**, not tutorials
 
 📮 **Open to:** Full-time · Contract · Remote · Hybrid
 📍 **Location:** Sydney, Australia
@@ -121,24 +103,12 @@ I am actively seeking opportunities in:
 
 ---
 
-## 🎖️ Certifications & Learning Path
-
-| Certification | Status |
-|--------------|--------|
-| AWS Certified Solutions Architect – Associate (SAA-C03) | 🔵 In Progress |
-| Certified Kubernetes Administrator (CKA) | 🔵 In Progress |
-| HashiCorp Certified: Terraform Associate | 🟡 Planned |
-| AWS Certified DevOps Engineer – Professional | 🟡 Planned |
-
----
-
 ## 🌐 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/srikanth-nannapaneni/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- 
   <a href="https://github.com/Sridevops355">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -151,5 +121,5 @@ I am actively seeking opportunities in:
 </p>
 
 <p align="center">
-  <i>"Infrastructure is code. Quality is culture. Automation is the answer."</i>
+  <i>"Clean data is a feature. Quality is a habit."</i>
 </p>
